@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**shrishtydayal2304/shrishtydayal2304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### I am Shrishty Dayal, pursuing B.Tech in CSE with specialization in Cyber Security and Forensics.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
