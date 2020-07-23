@@ -13,7 +13,7 @@
  
  
  ## Contact Me:
-  ### [Linkedin](https://www.linkedin.com/in/shrishty-dayal-59089816a/) |  [Gmail](mailto:shrishtydayal2304@gmail.com) | [Twitter](https://twitter.com/ShrishtyDayal)
+  ### [LinkedIn](https://www.linkedin.com/in/shrishty-dayal-59089816a/) |  [Gmail](mailto:shrishtydayal2304@gmail.com) | [Twitter](https://twitter.com/ShrishtyDayal)
   
 
 
