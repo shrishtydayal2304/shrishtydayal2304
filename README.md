@@ -5,7 +5,7 @@
   - Microsoft Technology Associate
   - I love to solve CTF Challenges.
   - HTML5 | CSS | JAVASCRIPT
-  - Love to spend time in HTB and exploring it.
+  - Love to spend time in THM challenges and HTB machine and exploring them.
   -  Java | Python 
  
  
