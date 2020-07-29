@@ -4,7 +4,7 @@
   - CSE(2nd year) student at UPES,DEHRADUN
   - Microsoft Technology Associate
   - I love to solve CTF Challenges.
-  - HTML5 | CSS | JAVASCRIPT
+  - HTML5 | CSS | JAVASCRIPT |PENTESTING
   - Love to spend time in THM challenges and HTB machine and exploring them.
   -  Java | Python 
  
